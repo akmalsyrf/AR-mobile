@@ -1,0 +1,4 @@
+https://www.chordtela.com/2020/08/ysabelle-cuevas-i-like-you-so-much.html
+
+https://github.com/expo/expo-three
+https://stackoverflow.com/questions/69397505/loading-an-obj-file-with-expo-three
